@@ -1,0 +1,6 @@
+{
+    "require": {
+        "amphp/amp": "^2.4",
+        "vimeo/psalm": "^3.11"
+    }
+}
